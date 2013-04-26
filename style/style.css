@@ -5,6 +5,22 @@ body {
     font-size: 14px;
 }
 
+body > h2 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 48px;
+    letter-spacing: -2px;
+    text-shadow: 0 1px 1px black;
+}
+
+body > hr {
+    width: 700px;
+    border: none;
+    border-bottom: 1px solid #888;
+    margin: 5em auto 0;
+    
+}
+
 .container {
     position: relative;
     width: 700px;
