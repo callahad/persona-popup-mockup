@@ -13,12 +13,31 @@ body > h2 {
     text-shadow: 0 1px 1px black;
 }
 
+body > h3 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 18px;
+    text-shadow: 0 1px 1px black;
+    margin-top: -2em;
+    margin-bottom: 2em;
+}
+
+body > h4 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 18px;
+    text-shadow: 0 1px 1px black;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+body > h4 > a { color: #0095dd; }
+
 body > hr {
     width: 700px;
     border: none;
     border-bottom: 1px solid #888;
     margin: 5em auto 0;
-    
 }
 
 .container {
