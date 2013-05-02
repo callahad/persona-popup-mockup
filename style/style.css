@@ -152,12 +152,12 @@ a:hover { text-decoration: underline; }
 }
 .playbrave .untrusted a { color: #ff0047; }
 
-.trovebox .untrusted {
+.trovebox .untrusted, .npr .untrusted {
     color: #000;
     text-shadow: 0 1px 0 #fff;
     background-color: #fff;
 }
-.trovebox .untrusted a { color: #0095dd; }
+.trovebox .untrusted a, .npr .untrusted a { color: #0095dd; }
 
 .airmoz .untrusted {
     background-color: #000;
